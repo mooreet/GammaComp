@@ -12,7 +12,7 @@ Take list mode data and integrate it into 4 or 8 Hertz spectral data files.  The
 
 ### Input & Output
 *	main input is the raw list mode data:
-  *	the "raw" list mode data energy & time delta by photon
+ *	the "raw" list mode data energy & time delta by photon
   *	C:\Users\mooreet_la\projects\SDRD\competition\data\trainingData\listData
   *	C:\Users\mooreet_la\projects\SDRD\competition\data\testingData\listData 
   *	The file naming is different for the two input sets.
